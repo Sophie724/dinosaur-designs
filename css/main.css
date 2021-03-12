@@ -18,6 +18,10 @@ h1, h2{
   text-transform: uppercase;
 }
 
+h1, h2, h3{
+  font-family: 'Roboto Mono', monospace;
+}
+
 figcaption {
   font-size: .8rem;
   font-style:italic;
